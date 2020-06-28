@@ -16,3 +16,5 @@ Face Recognition using Principal Component Analysis - PCA using 5 photos for tra
 9. Calculate the feature vector of the testing face.
 10. Compute the Euclidean distance between the test feature vector and all the training feature vector.
 11. Find the face class with minimum distance.
+
+!(average_image.png)
