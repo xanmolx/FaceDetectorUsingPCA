@@ -19,4 +19,7 @@ Face Recognition using Principal Component Analysis - PCA using 5 photos for tra
 
 ## Results and Analysis
 The image when averaged will look like this:
+
 ![average_image](/average_image.png)
+
+All the images were verified correctly. The system successfully recognized the human faces and worked better in different conditions of face orientation.
